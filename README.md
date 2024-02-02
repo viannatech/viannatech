@@ -1,4 +1,4 @@
-## Hi there! :blush:
+## Hi there! 😎
 
  :woman_technologist: Studying systems analysis and development and freelance Front-End developer
  <br>
