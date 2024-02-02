@@ -4,7 +4,7 @@
  <br>
  :computer: I'm studying HTML, CSS, JavaScript and React
  <br>
-:woman: he/He
+👨🏽‍💻 he/He
 
 
 ## 💻 Tech Stack:
@@ -26,7 +26,7 @@
 <br>
 <a href="https://www.instagram.com/cleytonviianaoficial?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>,<a href="https://www.linkedin.com/in/cleyton-epifanio?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>,<a href="https://contate.me/cleytonviana"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>,<a href="https://t.me/infinitynetoficial"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>,<a href="mailto:obrcleyton@hotmail.com?subject=&body="><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-
+<br>
 <br>
 <div align="center">
   <a href="https://github.com/viannatech">
